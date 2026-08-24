@@ -1,0 +1,42 @@
+{
+  "course": "erlang-fundamentals",
+  "language": "erlang",
+  "language_id": 58,
+  "entrypoint": "main.erl",
+  "version": 1,
+  "content_hash": "9dbf9020f5a75ee4",
+  "lessons": [
+    {
+      "slug": "hello-erlang",
+      "tests_hash": "7539f0aa4e44"
+    },
+    {
+      "slug": "variables",
+      "tests_hash": "825d6c6cb914"
+    },
+    {
+      "slug": "functions",
+      "tests_hash": "1720a777f726"
+    },
+    {
+      "slug": "lists",
+      "tests_hash": "2ef2107d7b83"
+    },
+    {
+      "slug": "tuples",
+      "tests_hash": "d8c429c91dc2"
+    },
+    {
+      "slug": "recursion",
+      "tests_hash": "16128b506896"
+    },
+    {
+      "slug": "modules",
+      "tests_hash": "fa812dd80c72"
+    },
+    {
+      "slug": "maps",
+      "tests_hash": "cbe6c1fdb32b"
+    }
+  ]
+}
